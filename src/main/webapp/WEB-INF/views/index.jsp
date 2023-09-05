@@ -14,7 +14,7 @@
         <table>
             <tr>
                 <td>ID:</td>
-                <td><input type="text” name="id” /></td>
+                <td><input type="text" name="id" /></td>
             </tr>
             <tr>
                 <td>タイトル:</td>
